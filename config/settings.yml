@@ -1,5 +1,5 @@
 posting:
   max_post_length:
     client: true
-    default: 32000
-    max: 300000
+    default: 320000
+    max: 999999
